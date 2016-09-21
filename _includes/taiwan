@@ -1,0 +1,5 @@
+<script src="//content.jwplatform.com/libraries/V6NfEzT7.js"></script>
+<div id="myPlayer">&nbsp;</div>
+<script>var jwp = jwplayer('myPlayer');
+jwp.setup({image:"{{site.asseturl}}/taiwan/ch{{include.key}}.png",file:"http://125.227.22.181/sta/ch{{include.key}}.m3u8",aspectratio:"16:9",width:"100%",type:"hls",hlshtml:true,autostart:true});
+</script>

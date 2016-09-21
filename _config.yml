@@ -1,0 +1,7 @@
+name: "SieuTV"
+subline: "fun for free"
+baseurl: "/0phanloai"
+asseturl: "/assets"
+permalink: /:categories/:title/
+paginate: 60
+paginate_path: "/page:num"
